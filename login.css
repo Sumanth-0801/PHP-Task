@@ -1,0 +1,92 @@
+
+.login-page {
+    background-color: #d2d6de;
+}
+
+.login-box {
+    width: 510px;
+    margin: 7% auto;
+}
+
+.login-logo {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
+    color: #ffa500;
+}
+
+.login-box-body {
+    background: #fff;
+    padding: 60px;
+    border-top: 0;
+    color: #666;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: inline-block;
+    color: #000000;
+}
+
+p.forgot-password {
+    float: right;
+    color: #0d6efd;
+}
+
+#submit {
+    margin-left: 80px;
+    width: 250px;
+    height: 45px;
+    background-color: black;
+}
+
+.phone-code i {
+    font-size: 17px;
+    margin-top: 4px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.phone-code {
+    position: absolute;
+    bottom: 60%;
+    top: 35%;
+    margin-left: 7px;
+    padding: 3px;
+    margin-top: 5px;
+}
+
+.password-code i {
+    font-size: 17px;
+    margin-top: 4px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.password-code {
+    position: absolute;
+    bottom: 60%;
+    top: 45%;
+    margin-left: 7px;
+    padding: 3px;
+    margin-top: 8px;
+}
+
+i.fas.fa-eye-slash.showPassword {
+    right: 0px;
+    position: absolute;
+    left: 345px;
+}
+.col-xs-4.sign-button {
+    padding-top: 50px;
+}
+.fa-eye:before {
+    content: "\f06e";
+    position: absolute;
+    left: 345px;
+}
+.items-center {
+    align-items: center;
+}
